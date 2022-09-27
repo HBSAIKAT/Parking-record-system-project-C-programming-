@@ -1,0 +1,2 @@
+# Parking-record-system-project-C-programming-
+The console-based parking management system in C using the function, loop, and Conditional Statement is a program created for parking bus, truck and car information and total amount written in the C programming language. This system was developed as a small, straightforward project using the Code::Blocks IDE &amp; the GCC compiler. The vehicle record is kept in this system. The records item includes vehicle number and amount.
